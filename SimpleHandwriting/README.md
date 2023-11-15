@@ -5,7 +5,7 @@ Reference: [neural networks and deep learning](http://neuralnetworksanddeeplearn
 
 Commands to be execute in a Python shell:  
 
->>> import mnist_loader
+\>\>\> import mnist_loader
 
 >>> training_data, validation_data, test_data = \
 
