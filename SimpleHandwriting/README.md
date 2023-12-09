@@ -3,7 +3,7 @@ A simple neural network that recognize handwritten digits with python 3.9
 
 Reference: [neural networks and deep learning](http://neuralnetworksanddeeplearning.com)  
 
-Commands to be execute in a Python shell:  
+Commands to be executed in a Python shell:  
 
 \>>> import mnist_loader
 
